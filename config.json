@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userpender",
+        "uuid": 30384508,
+        "checksum": "3asssm"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
